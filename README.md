@@ -5,12 +5,6 @@ This app fetches real-time weather data from the **OpenWeatherMap API** and disp
 
 ---
 
-## 🚀 Live Demo
-👉 [Add your live site link here once deployed, e.g., GitHub Pages link]
-
----
-
-## 🖼️ Preview
 ## 🖼️ Preview
 ![Weather App Screenshot](images/preview.png)
 
