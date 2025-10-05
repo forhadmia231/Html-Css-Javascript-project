@@ -6,7 +6,7 @@ This app fetches real-time weather data from the **OpenWeatherMap API** and disp
 ---
 
 ## 🖼️ Preview
-![Weather App Screenshot](images/preview.png)
+![Weather App Screenshot](preview.png)
 
 ---
 
